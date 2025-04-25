@@ -1,0 +1,16 @@
+/* Additional custom styles */
+.footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
